@@ -11,9 +11,6 @@
   <a href="https://www.linkedin.com/in/henrique-silva-4637a7282">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://site-pi-iota.vercel.app">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
 </p>
 
 ---
