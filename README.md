@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:riccksilva45@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="/cdn-cgi/l/email-protection#e4968d87878f978d889285d0d1a48389858d88ca878b89"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/henrique-silva-4637a7282"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://site-pi-iota.vercel.app"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
@@ -72,5 +72,4 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Henrique498&color=6366f1&style=flat-square&label=Visitantes+do+perfil"/>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=Henrique498&color=6366f1&style=fl
