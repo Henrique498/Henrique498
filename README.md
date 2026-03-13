@@ -5,9 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="/cdn-cgi/l/email-protection#e4968d87878f978d889285d0d1a48389858d88ca878b89"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/henrique-silva-4637a7282"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://site-pi-iota.vercel.app"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:riccksilva45@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/henrique-silva-4637a7282">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://site-pi-iota.vercel.app">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -17,7 +23,7 @@
 - 🎓 Estudante de **Técnico em Desenvolvimento de Sistemas** no **Senac Taboão da Serra**
 - 🔭 Desenvolvendo projetos **Fullstack** com foco em performance e usabilidade
 - 🌱 17 anos, aprendendo e construindo projetos reais desde cedo
-- 💡 Gosto de transformar ideias em produtos funcionais, do back ao front
+- ☕ Conhecimentos em **Orientação a Objetos** com Java
 - 🎯 Buscando minha primeira oportunidade na área de desenvolvimento
 
 ---
@@ -35,8 +41,8 @@
 
 **Backend & Desktop**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Ferramentas**
 
@@ -56,6 +62,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Henrique498&repo=Desktop&theme=tokyonight&hide_border=true" />
 </a>
 
+<br/>
+
+🌐 **SitePI ao vivo:** [site-pi-iota.vercel.app](https://site-pi-iota.vercel.app)
+
 ---
 
 ## 📊 GitHub Stats
@@ -68,8 +78,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henrique498&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Henrique498&color=6366f1&style=fl
