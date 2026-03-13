@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:riccksilva45@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#13617a707078607a7f6572272653747e727a7f3d707c7e">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/henrique-silva-4637a7282">
@@ -64,7 +64,7 @@
 
 <br/>
 
-🌐 **SitePI ao vivo:** [site-pi-iota.vercel.app](https://site-pi-iota.vercel.app)
+🌐 **SitePI ao vivo:** [site-pi-iota.vercel.app](https://site-pi-iota.vercel.app) — *site desenvolvido para o PI do curso de Administração do Senac*
 
 ---
 
@@ -76,5 +76,4 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henrique498&theme=tokyonight&hide_border=true"/>
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henrique4
