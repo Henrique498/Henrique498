@@ -6,7 +6,6 @@
 
 [![Email](https://img.shields.io/badge/Email-riccksilva45%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:riccksilva45@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-henrique--silva-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-silva-4637a7282)
-[![Portfólio](https://img.shields.io/badge/Portfólio-site--pi--iota.vercel.app-111111?style=flat-square&logo=vercel&logoColor=white)](https://site-pi-iota.vercel.app)
 
 </div>
 
@@ -73,4 +72,10 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henrique498&background=0d0d0d&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=555555&border=333333"/>
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://img.pokemondb.net/sprites/black-white/normal/gengar.gif" width="80" alt="Gengar"/>
 </div>
