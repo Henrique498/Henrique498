@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,40:1E3A8A,75:2563EB,100:38BDF8&height=240&text=Henrique%20Silva&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=Desenvolvimento%20de%20Sistemas&descSize=22&descAlignY=65&descColor=E2E8F0&animation=fadeIn" alt="Henrique Silva" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,40:1E3A8A,75:2563EB,100:38BDF8&height=240&text=Henrique%20Silva&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=Desenvolvimento%20de%20Sistemas&descSize=22&descAlignY=62&descColor=E2E8F0&animation=fadeIn" alt="Henrique Silva" />
 <img src="./greninja-ataque.gif" width="100%" alt="Shiny Greninja Atacando" />
 
 <p align="center">
