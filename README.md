@@ -1,13 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:3B82F6,100:06B6D4&height=200&section=header&text=Henrique%20Silva&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Henrique Silva" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:14B8A6,100:22C55E&height=200&section=header&text=Henrique%20Silva&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Henrique Silva" />
 
 <p align="center">
   <a href="https://henrique498-dev.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=640&lines=Oi%2C+eu+sou+o+Henrique;Estudo+Desenvolvimento+de+Sistemas;Python%2C+React+e+Flutter;Procurando+minha+primeira+vaga+de+Jovem+Aprendiz" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=14B8A6&center=true&vCenter=true&width=640&lines=Oi%2C+eu+sou+o+Henrique;Estudo+Desenvolvimento+de+Sistemas;Python%2C+React+e+Flutter;Procurando+minha+primeira+vaga+de+Jovem+Aprendiz" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://henrique498-dev.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
+  <a href="https://henrique498-dev.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
   <a href="https://www.linkedin.com/in/henrique-silva-4637a7282"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:riccksilva45@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -62,8 +62,8 @@ Ainda é um MVP. Login, planos, pareamento e a análise por IA já funcionam. Os
 ---
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Henrique498&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique498&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Henrique498&show_icons=true&bg_color=0D1117&title_color=14B8A6&text_color=C9D1D9&icon_color=0EA5E9&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique498&layout=compact&bg_color=0D1117&title_color=14B8A6&text_color=C9D1D9&icon_color=0EA5E9&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:7C3AED&height=120&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,50:14B8A6,100:0EA5E9&height=120&section=footer" alt="" />
