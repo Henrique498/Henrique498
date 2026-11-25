@@ -1,10 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:1E3A8A,80:2563EB,100:38BDF8&height=170&section=header&text=Henrique%20Silva&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=45" alt="Henrique Silva" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:1E3A8A,100:0B1220&height=50&section=header" alt="" />
-
-<p align="center">
-  <img src="./greninja-ataque.gif" width="100%" alt="Shiny Greninja Atacando" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,40:1E3A8A,75:2563EB,100:38BDF8&height=240&text=Henrique%20Silva&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=Desenvolvimento%20de%20Sistemas&descSize=22&descAlignY=65&descColor=E2E8F0&animation=fadeIn" alt="Henrique Silva" />
+<img src="./greninja-ataque.gif" width="100%" alt="Shiny Greninja Atacando" />
 
 <p align="center">
   <a href="https://henrique498-dev.vercel.app/">
@@ -103,6 +98,10 @@ Ainda é um MVP. Login, planos, pareamento e a análise por IA já funcionam. Os
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Henrique498&bg_color=0B1220&color=38BDF8&line=2563EB&point=E2E8F0&area=true&area_color=1E3A8A&hide_border=true" alt="Gráfico de atividade" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Henrique498/Henrique498/output/github-snake-dark.svg" width="100%" alt="Cobrinha comendo meus commits" />
 </p>
 
 <p align="center">
