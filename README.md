@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:1E3A8A,80:2563EB,100:38BDF8&height=200&section=header&text=Henrique%20Silva&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Henrique Silva" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:1E3A8A,80:2563EB,100:38BDF8&height=170&section=header&text=Henrique%20Silva&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=45" alt="Henrique Silva" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:1E3A8A,100:0B1220&height=50&section=header" alt="" />
 
 <p align="center">
   <img src="./greninja-ataque.gif" width="100%" alt="Shiny Greninja Atacando" />
@@ -6,7 +8,7 @@
 
 <p align="center">
   <a href="https://henrique498-dev.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Oi%2C+eu+sou+o+Henrique;Estudo+Desenvolvimento+de+Sistemas;Python%2C+React+e+Flutter;Procurando+minha+primeira+vaga+de+Jovem+Aprendiz" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Oi%2C+eu+sou+o+Henrique;Estudo+Desenvolvimento+de+Sistemas;Python%2C+React+e+Flutter;Buscando+minha+primeira+vaga+na+%C3%A1rea" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,7 +27,7 @@ Faço o técnico em Desenvolvimento de Sistemas no Senac de Taboão da Serra e t
 
 Também gosto de segurança. Faço o Google Cybersecurity Certificate e treino no TryHackMe e no PortSwigger Web Security Academy.
 
-Estou atrás de uma vaga de Jovem Aprendiz ou estágio em desenvolvimento.
+Estou atrás da minha primeira oportunidade na área de desenvolvimento, seja como Jovem Aprendiz, estágio ou outra vaga de entrada.
 
 ---
 
