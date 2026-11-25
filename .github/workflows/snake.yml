@@ -1,4 +1,4 @@
-name: Gerar cobrinha
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -8,22 +8,23 @@ on:
     branches:
       - main
 
-permissions:
-  contents: write
-
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
+
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Generate github-snake-dark.svg
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=38BDF8&color_dots=0F172A,1E3A8A,2563EB,38BDF8,7DD3FC
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=38BDF8
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#38BDF8&color_dots=#161B22,#1E3A8A,#2563EB,#38BDF8,#7DD3FC
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push github-snake-dark.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
