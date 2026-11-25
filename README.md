@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/644.gif" alt="Zekrom" />
+  <img src="assets/zekrom.gif" width="320" alt="Zekrom" />
 </p>
 
 <p align="center">
