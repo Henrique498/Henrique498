@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/greninja-topo.svg" width="230" alt="Greninja" />
+  <img src="assets/greninja-topo.gif" width="230" alt="Greninja" />
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@ Ainda é um MVP. Login, planos, pareamento e a análise por IA já funcionam. Os
 </p>
 
 <p align="center">
-  <img src="assets/greninja-fim.svg" width="230" alt="Greninja" />
+  <img src="assets/greninja-fim.gif" width="230" alt="Greninja" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,20:2563EB,55:1E3A8A,100:0B1220&height=120&section=footer" alt="" />
