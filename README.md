@@ -96,3 +96,15 @@ Ainda é um MVP. Login, planos, pareamento e a análise por IA já funcionam. Os
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Henrique498&background=0B1220&ring=38BDF8&fire=2563EB&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8&border=0B1220" alt="Streak de contribuições" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Henrique498&bg_color=0B1220&color=38BDF8&line=2563EB&point=E2E8F0&area=true&area_color=1E3A8A&hide_border=true" alt="Gráfico de atividade" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/658.gif" width="160" alt="Shiny Greninja" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,20:2563EB,55:1E3A8A,100:0B1220&height=120&section=footer" alt="" />
