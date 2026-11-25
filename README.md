@@ -98,7 +98,7 @@ Ainda é um MVP. Login, planos, pareamento e a análise por IA já funcionam. Os
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Henrique498&bg_color=0B1220&color=38BDF8&line=2563EB&point=E2E8F0&area=true&area_color=1E3A8A&hide_border=true" alt="Gráfico de atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Henrique498&bg_color=0B1220&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=1E3A8A&hide_border=true" alt="Gráfico de atividade" />
 </p>
 
 <p align="center">
