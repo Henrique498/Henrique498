@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:0EA5E9,100:38BDF8&height=200&section=header&text=Henrique%20Silva&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Henrique Silva" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:38BDF8,100:F9A8C0&height=200&section=header&text=Henrique%20Silva&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Henrique Silva" />
 
 <p align="center">
   <a href="https://henrique498-dev.vercel.app/">
@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/658.gif" width="260" alt="Greninja" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/658.gif" alt="Greninja" />
 </p>
 
 <p align="center">
-  <a href="https://henrique498-dev.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
+  <a href="https://henrique498-dev.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
   <a href="https://www.linkedin.com/in/henrique-silva-4637a7282"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:riccksilva45@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -66,12 +66,12 @@ Ainda é um MVP. Login, planos, pareamento e a análise por IA já funcionam. Os
 ---
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Henrique498&show_icons=true&custom_title=Meu%20GitHub&bg_color=0D1117&title_color=F59E0B&text_color=C9D1D9&icon_color=0EA5E9&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique498&layout=compact&custom_title=Linguagens%20que%20mais%20uso&hide=CMake,Swift,Kotlin,Ruby,Objective-C&bg_color=0D1117&title_color=F59E0B&text_color=C9D1D9&icon_color=0EA5E9&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Henrique498&show_icons=true&custom_title=Meu%20GitHub&bg_color=0D1117&title_color=F9A8C0&text_color=F5E6CA&icon_color=38BDF8&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique498&layout=compact&custom_title=Linguagens%20que%20mais%20uso&hide=CMake,Swift,Kotlin,Ruby,Objective-C&bg_color=0D1117&title_color=F9A8C0&text_color=F5E6CA&icon_color=38BDF8&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/back/658.gif" width="240" alt="Greninja de costas" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/10117.gif" alt="Ash-Greninja" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0EA5E9,100:1D4ED8&height=120&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F9A8C0,50:38BDF8,100:1D4ED8&height=120&section=footer" alt="" />
