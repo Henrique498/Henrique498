@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/10117.gif" alt="Ash-Greninja" />
+  <img src="assets/greninja-topo.svg" width="230" alt="Greninja" />
 </p>
 
 <p align="center">
@@ -66,12 +66,12 @@ Ainda é um MVP. Login, planos, pareamento e a análise por IA já funcionam. Os
 ---
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Henrique498&show_icons=true&custom_title=Meu%20GitHub&bg_color=0B1220&title_color=F9A8C0&text_color=E2E8F0&icon_color=2563EB&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique498&layout=compact&custom_title=Linguagens%20que%20mais%20uso&hide=CMake,Swift,Kotlin,Ruby,Objective-C&bg_color=0B1220&title_color=F9A8C0&text_color=E2E8F0&icon_color=2563EB&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Henrique498&show_icons=true&custom_title=Meu%20GitHub&bg_color=0B1220&title_color=1E9BF0&text_color=E2E8F0&icon_color=38BDF8&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique498&layout=compact&custom_title=Linguagens%20que%20mais%20uso&hide=CMake,Swift,Kotlin,Ruby,Objective-C&bg_color=0B1220&title_color=1E9BF0&text_color=E2E8F0&icon_color=38BDF8&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/658.gif" alt="Greninja" />
+  <img src="assets/greninja-fim.svg" width="230" alt="Greninja" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,20:2563EB,55:1E3A8A,100:0B1220&height=120&section=footer" alt="" />
