@@ -1,10 +1,8 @@
-<!-- Cabeçalho animado (ondas) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:3B82F6,100:06B6D4&height=200&section=header&text=Henrique%20Silva&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desenvolvimento%20de%20Sistemas%20%C2%B7%20Mobile%20%C2%B7%20Web%20%C2%B7%20IA&descSize=18&descAlignY=58" alt="Henrique Silva" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:3B82F6,100:06B6D4&height=200&section=header&text=Henrique%20Silva&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Henrique Silva" />
 
-<!-- Texto digitando -->
 <p align="center">
   <a href="https://henrique498-dev.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=640&lines=Ol%C3%A1%2C+eu+sou+o+Henrique+%F0%9F%91%8B;Estudante+de+Desenvolvimento+de+Sistemas;Python+%C2%B7+React+%C2%B7+Flutter;Buscando+minha+primeira+vaga+de+Jovem+Aprendiz+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=640&lines=Oi%2C+eu+sou+o+Henrique;Estudo+Desenvolvimento+de+Sistemas;Python%2C+React+e+Flutter;Procurando+minha+primeira+vaga+de+Jovem+Aprendiz" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,55 +14,46 @@
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
 
-- 🎓 Técnico em Desenvolvimento de Sistemas no **Senac Taboão da Serra** (conclusão prevista para abril de 2027)
-- 🛠️ Aprendo construindo: web, mobile e back-end, do design no Figma até o deploy
-- 🔐 Interesse em cibersegurança: Google Cybersecurity Certificate, TryHackMe e PortSwigger Web Security Academy
-- 🎯 Procuro vaga de **Jovem Aprendiz** ou estágio para aprender em time e entregar valor desde cedo
+Faço o técnico em Desenvolvimento de Sistemas no Senac de Taboão da Serra e termino em abril de 2027. Gosto de pegar um projeto do começo, desenhar a tela no Figma, programar e colocar no ar. Já fiz isso com site, app de celular e API.
+
+Também gosto de segurança. Faço o Google Cybersecurity Certificate e treino no TryHackMe e no PortSwigger Web Security Academy.
+
+Estou atrás de uma vaga de Jovem Aprendiz ou estágio em desenvolvimento.
 
 ---
 
-## ⭐ Projeto em destaque
+## Projeto principal
 
-<table>
-  <tr>
-    <td>
+### [GuardianNet](https://github.com/Henrique498/GuardianNet_App)
+Semifinalista do Empreenda Senac, 19ª edição.
 
-### 🛡️ [GuardianNet](https://github.com/Henrique498/GuardianNet_App)
-**Proteção digital infantil com inteligência artificial** · 🏆 Semifinalista do Empreenda Senac, 19ª edição
+A ideia: como saber se uma criança está falando com alguém perigoso sem ler tudo o que ela escreve? O GuardianNet analisa as mensagens e avisa os responsáveis quando aparece algo como aliciamento, bullying ou ameaça. Cada mensagem recebe um nível: seguro, atenção ou perigo.
 
-App + site que identifica aliciamento, bullying e conteúdo impróprio em conversas de crianças e avisa os responsáveis.
+A análise junta uma lista de palavras-chave em português com um modelo Naive Bayes (biblioteca River) treinado no corpus PAN12. A criança entra no app com um código de 6 dígitos, sem precisar de e-mail nem senha.
 
-- 🚦 Classifica cada mensagem em **seguro, atenção ou perigo**
-- 🧠 IA em camadas: contatos de confiança, palavras-chave em português e Naive Bayes incremental (River) treinado no corpus PAN12
-- 🔗 Pareamento do celular da criança por código de 6 dígitos, sem e-mail ou senha
-- ⚖️ Pensado para a Lei 15.211/2025: monitoramento transparente
-- 🚧 Status: MVP. Login, planos, pareamento e análise por IA já funcionam; contatos e alertas no app ainda usam dados de exemplo
+Ainda é um MVP. Login, planos, pareamento e a análise por IA já funcionam. Os contatos e alertas dentro do app ainda usam dados de exemplo, e a leitura automática das mensagens no Android é a próxima etapa.
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white">
 
-    </td>
-  </tr>
-</table>
-
 ---
 
-## 🚀 Outros projetos
+## Outros projetos
 
-| Projeto | Descrição | Tecnologias |
+| Projeto | O que é | Feito com |
 | --- | --- | --- |
-| 🌐 [Portfólio](https://github.com/Henrique498/portfolio) · [demo](https://henrique498-dev.vercel.app/) | Landing page feita a partir de um design no Figma, com animações de scroll e zero dependências | HTML, CSS, JavaScript |
-| 🏋️ [HeliosFit](https://github.com/Henrique498/app_helios2) | App mobile de treinos com autenticação, planos e checkout | React Native, Expo, TypeScript |
-| 📡 [Desktop](https://github.com/Henrique498/Desktop) | Dashboard para monitorar sensores de um ESP32 em tempo real | Python, PyQt5, MQTT, Firebase |
-| 🏫 [SitePI](https://github.com/Henrique498/sitePI) · [online](https://site-pi-iota.vercel.app) | Site desenvolvido para o PI do Senac | HTML, CSS, JavaScript |
-| 🐾 [PetConnectta](https://github.com/Henrique498/PetConnectta) | Aplicação web | TypeScript |
-| 🏥 [siteMedico](https://github.com/Henrique498/siteMedico) | Site educativo sobre o Protocolo de Manchester | HTML, CSS |
-| 🌱 [belenuti_veganus](https://github.com/Henrique498/belenuti_veganus) | Protótipo de plataforma de produtos veganos | C++ |
+| [Portfólio](https://github.com/Henrique498/portfolio) ([ver online](https://henrique498-dev.vercel.app/)) | Meu site, sem framework nenhum, com animações de scroll | HTML, CSS, JavaScript |
+| [HeliosFit](https://github.com/Henrique498/app_helios2) | App de academia com login, planos e pagamento | React Native, Expo, TypeScript |
+| [Desktop](https://github.com/Henrique498/Desktop) | Painel que mostra os sensores de um ESP32 em tempo real | Python, PyQt5, MQTT, Firebase |
+| [SitePI](https://github.com/Henrique498/sitePI) ([ver online](https://site-pi-iota.vercel.app)) | Site do projeto integrador do Senac | HTML, CSS, JavaScript |
+| [PetConnectta](https://github.com/Henrique498/PetConnectta) | Aplicação web | TypeScript |
+| [siteMedico](https://github.com/Henrique498/siteMedico) | Site sobre o Protocolo de Manchester | HTML, CSS |
+| [belenuti_veganus](https://github.com/Henrique498/belenuti_veganus) | Protótipo de loja de produtos veganos | C++ |
 
 ---
 
-## 🧰 Stack
+## Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,flutter,dart,python,flask,fastapi,java,postgres,supabase,git,github,figma,vercel,vscode&perline=10" alt="Tecnologias" />
@@ -72,16 +61,9 @@ App + site que identifica aliciamento, bullying e conteúdo impróprio em conver
 
 ---
 
-## 📊 Estatísticas
-
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Henrique498&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique498&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henrique498&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
-</p>
-
-<!-- Rodapé animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:7C3AED&height=120&section=footer" alt="" />
