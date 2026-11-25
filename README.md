@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="150" alt="Gengar animado" style="image-rendering: pixelated;" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/658.gif" width="260" alt="Greninja" />
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ Ainda é um MVP. Login, planos, pareamento e a análise por IA já funcionam. Os
 
 ---
 
-## Linguagens
+## Linguagens e tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,flutter,dart,python,flask,fastapi,java,postgres,supabase,git,github,figma,vercel,vscode&perline=10" alt="Tecnologias" />
@@ -66,8 +66,12 @@ Ainda é um MVP. Login, planos, pareamento e a análise por IA já funcionam. Os
 ---
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Henrique498&show_icons=true&bg_color=0D1117&title_color=0EA5E9&text_color=C9D1D9&icon_color=0EA5E9&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique498&layout=compact&bg_color=0D1117&title_color=0EA5E9&text_color=C9D1D9&icon_color=0EA5E9&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Henrique498&show_icons=true&custom_title=Meu%20GitHub&bg_color=0D1117&title_color=F59E0B&text_color=C9D1D9&icon_color=0EA5E9&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique498&layout=compact&custom_title=Linguagens%20que%20mais%20uso&hide=CMake,Swift,Kotlin,Ruby,Objective-C&bg_color=0D1117&title_color=F59E0B&text_color=C9D1D9&icon_color=0EA5E9&hide_border=true" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/back/658.gif" width="240" alt="Greninja de costas" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0EA5E9,100:1D4ED8&height=120&section=footer" alt="" />
