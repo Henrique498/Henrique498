@@ -57,7 +57,7 @@ Ainda é um MVP. Login, planos, pareamento e a análise por IA já funcionam. Os
 
 ---
 
-## Tecnologias
+## Linguagens
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,flutter,dart,python,flask,fastapi,java,postgres,supabase,git,github,figma,vercel,vscode&perline=10" alt="Tecnologias" />
