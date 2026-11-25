@@ -71,7 +71,7 @@ Ainda é um MVP. Login, planos, pareamento e a análise por IA já funcionam. Os
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/658.gif" alt="Greninja" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/658.gif" width="160" alt="Shiny Greninja" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,20:2563EB,55:1E3A8A,100:0B1220&height=120&section=footer" alt="" />
