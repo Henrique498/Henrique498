@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,40:1E3A8A,75:2563EB,100:38BDF8&height=220&text=Henrique%20Silva&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=Desenvolvimento%20de%20Sistemas&descSize=22&descAlignY=65&descColor=E2E8F0&animation=twinkling" alt="Henrique Silva" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,40:1E3A8A,75:2563EB,100:38BDF8&height=230&section=header&text=Henrique%20Silva&fontSize=62&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Desenvolvimento%20de%20Sistemas&descSize=20&descAlignY=58&descColor=E2E8F0" alt="Henrique Silva" />
 </p>
 
 <p align="center">
