@@ -1,5 +1,9 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,40:1E3A8A,75:2563EB,100:38BDF8&height=220&text=Henrique%20Silva&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=Desenvolvimento%20de%20Sistemas&descSize=22&descAlignY=65&descColor=E2E8F0&animation=twinkling" alt="Henrique Silva" /><img src="./greninja-ataque.gif" width="100%" alt="Shiny Greninja Atacando" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,40:1E3A8A,75:2563EB,100:38BDF8&height=220&text=Henrique%20Silva&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=Desenvolvimento%20de%20Sistemas&descSize=22&descAlignY=65&descColor=E2E8F0&animation=twinkling" alt="Henrique Silva" />
+</p>
+
+<p align="center">
+  <img src="./greninja-ataque.gif" width="320" alt="Shiny Greninja atacando" />
 </p>
 
 <p align="center">
@@ -12,7 +16,6 @@
   <a href="https://henrique498-dev.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
   <a href="https://www.linkedin.com/in/henrique-silva-4637a7282"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:riccksilva45@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/Henrique498"><img src="https://img.shields.io/github/followers/Henrique498?label=Seguidores&style=for-the-badge&logo=github&color=0B1220&labelColor=1E3A8A" alt="Seguidores no GitHub"></a>
 </p>
 
 ---
@@ -38,7 +41,24 @@ A análise junta uma lista de palavras-chave em português com um modelo Naive B
 
 Ainda é um MVP. Login, planos, pareamento e a análise por IA já funcionam. Os contatos e alertas dentro do app ainda usam dados de exemplo, e a leitura automática das mensagens no Android é a próxima etapa.
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white">
+<table align="center">
+  <tr>
+    <td align="center"><img src="assets/guardiannet/login.jpg" height="360" alt="Tela de login do GuardianNet"><br><sub>Login</sub></td>
+    <td align="center"><img src="assets/guardiannet/alertas.jpg" height="360" alt="Central de alertas"><br><sub>Alertas</sub></td>
+    <td align="center"><img src="assets/guardiannet/teste-ia.jpg" height="360" alt="Laboratório de IA"><br><sub>Teste da IA</sub></td>
+    <td align="center"><img src="assets/guardiannet/contatos.jpg" height="360" alt="Contatos confiáveis"><br><sub>Contatos</sub></td>
+    <td align="center"><img src="assets/guardiannet/parear.jpg" height="360" alt="Parear dispositivo da criança"><br><sub>Parear celular</sub></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white">
+</p>
 
 ---
 
@@ -56,28 +76,6 @@ Ainda é um MVP. Login, planos, pareamento e a análise por IA já funcionam. Os
 
 ---
 
-## Repositórios em destaque
-
-<p align="center">
-  <a href="https://github.com/Henrique498/GuardianNet_App">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Henrique498&repo=GuardianNet_App&bg_color=0B1220&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8&hide_border=true" alt="GuardianNet_App" />
-  </a>
-  <a href="https://github.com/Henrique498/app_helios2">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Henrique498&repo=app_helios2&bg_color=0B1220&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8&hide_border=true" alt="app_helios2" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Henrique498/Desktop">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Henrique498&repo=Desktop&bg_color=0B1220&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8&hide_border=true" alt="Desktop" />
-  </a>
-  <a href="https://github.com/Henrique498/portfolio">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Henrique498&repo=portfolio&bg_color=0B1220&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8&hide_border=true" alt="portfolio" />
-  </a>
-</p>
-
----
-
 ## Linguagens e tecnologias
 
 <p align="center">
@@ -91,14 +89,6 @@ Ainda é um MVP. Login, planos, pareamento e a análise por IA já funcionam. Os
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Henrique498&show_icons=true&custom_title=Meu%20GitHub&bg_color=0B1220&title_color=1E9BF0&text_color=E2E8F0&icon_color=38BDF8&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique498&layout=compact&custom_title=Linguagens%20que%20mais%20uso&hide=CMake,Swift,Kotlin,Ruby,Objective-C&bg_color=0B1220&title_color=1E9BF0&text_color=E2E8F0&icon_color=38BDF8&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Henrique498&background=0B1220&ring=38BDF8&fire=2563EB&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8&border=0B1220" alt="Streak de contribuições" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Henrique498&bg_color=0B1220&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=1E3A8A&hide_border=true" alt="Gráfico de atividade" />
 </p>
 
 <p align="center">
